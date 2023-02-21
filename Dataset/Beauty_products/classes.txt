@@ -1,0 +1,16 @@
+People
+Animals
+Vehicles
+Furniture
+Electronics
+Sports_equipment
+Kitchen_Appliances
+Clothing
+Food
+Tools
+Office_Supplies
+Toys
+Musical_instruments
+Beauty_products
+Home_Decor
+]
