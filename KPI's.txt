@@ -1,0 +1,6 @@
+18-02-23
+
+Dataset size : 527 mb
+model size : 247 mb
+inference time is :12 ms 
+GPU :RTS 3060
